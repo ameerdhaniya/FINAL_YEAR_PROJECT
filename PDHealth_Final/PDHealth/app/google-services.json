@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "813974256688",
+    "firebase_url": "https://pd-health-2020.firebaseio.com",
+    "project_id": "pd-health-2020",
+    "storage_bucket": "pd-health-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813974256688:android:f1cd21adc690380bdac1f5",
+        "android_client_info": {
+          "package_name": "com.example.pdhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813974256688-8hpo9fs07r2ucelqhcfi6hhk4b54gcbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdhealth",
+            "certificate_hash": "66e16b35393880b6563338442bd8793438035f05"
+          }
+        },
+        {
+          "client_id": "813974256688-ruleu5hg584kr496uhpfjlptfklfh70a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdhealth",
+            "certificate_hash": "eb805b9e1f0090632760dfd85add8a8ab516a419"
+          }
+        },
+        {
+          "client_id": "813974256688-1l4jtedoe0r4mad8l90a5aa90uu9c8vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdhealth",
+            "certificate_hash": "021dea12cd506d40b8d719ed488b2667ddc4eec6"
+          }
+        },
+        {
+          "client_id": "813974256688-7vj0ov8j53cqku4ct6g4t23vulpe4v1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUclH1NPo9lW2Cd_k5Cs5kkk6wX2rCWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813974256688-7vj0ov8j53cqku4ct6g4t23vulpe4v1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
